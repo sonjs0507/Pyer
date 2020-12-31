@@ -1,18 +1,18 @@
 :root {
-  --back: #232323;
-  --mid-gray: #2d2d2d;
-  --light-gray: #383838;
-  --white-gray: #5a5a5a;
-  --more-white-gray: #838383;
+  --back: #4eedd8;
+  --mid-gray: #bac3ff;
+  --light-gray: #a1b5d4;
+  --white-gray: #42a6a4;
+  --more-white-gray: #a3e6e4;
 }
 
 
 header.common_gnb { /* 맨 위에 있는 툴바 */
-  background-color: var(--back);
+  background-color: #719190(--back);
 }
 
 div.entryScene { /* 엔트리 장면 */
-  background-color: var(--back);
+  background-color: #afc9c9(--back);
 }
 
 div.engineContainer { /* 왼쪽 패널(미리보기 화면, 오브젝트 선택 창) */
